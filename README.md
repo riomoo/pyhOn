@@ -1,3 +1,4 @@
+[![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fshare.jester-designs.com%2Fmedia%2Fbank%2Fkeep%2Fmitplusnigger.json)](https://plusnigger.org/MIT+NIGGER.txt)
 
 **This python package is unofficial and is not related in any way to Haier. It was developed by reversed engineered requests and can stop working at anytime!**
 
